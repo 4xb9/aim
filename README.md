@@ -1,1 +1,1 @@
-# aim
+works great on kat, some clanning game called th3ltgrounds, hold e to aimlock, the fov is kinda small so sorry if your enemy moves alot you can just move your mouse into their head and it will lock on. it breaks sometimes idk how to fix lol
